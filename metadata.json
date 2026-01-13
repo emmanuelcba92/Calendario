@@ -1,0 +1,8 @@
+
+{
+  "name": "Nova Calendar & Alarms",
+  "description": "A modern, sleek Android-style calendar application with event tracking, upcoming view, and date-configurable alarms.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
